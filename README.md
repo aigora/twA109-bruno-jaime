@@ -16,16 +16,15 @@ Por pasos:
 
 1.Inicio.
 
-2.Asignación de un sonido a cada sensor.
+2.Asignación de un valor a cada puerto
 
-3.Asociación de una intensidad de sonido a cada fuerza de golpeo.
+3.A cada puerto le corresponderá un sonido.
 
 4.Lectura del sensor, de la intensidad y de que sensor se trata.
 
-5.Según la lectura realizada se emite un sonido diferente y con una intensidad durante un periodo de tiempo.
+5.Según la lectura realizada se emite un sonido diferente durante un periodo de tiempo.
 
 6.Se repite el programa cada vez que pulsemos un sensor.
 
-7.Cuando se presione un boton específico se acaba el programa.
 
 FIN
