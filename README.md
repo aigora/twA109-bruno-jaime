@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Batería musical creada con sensores piezoeléctricos conectados a arduino y a su vez este al ordenador de manera que dependiendo de la intensidad de golpeo de cada sensor se obtiene un sonido y una intensidad de ese sonido diferente. .
+Batería musical creada con sensores piezoeléctricos conectados a arduino y a su vez este al ordenador de manera que dependiendo del sensor que se golpee se obtendrá un sonido diferente. .
 
 ## Integrantes del equipo
 
@@ -9,7 +9,7 @@ Jaime Pérez Calvo  jaimepc00
 
 ## Objetivos del trabajo
 
-Montar y programar una batería musical a partir de Arduino utilizando el lenguaje de programación C.
+Montar y programar una batería musical a partir de Arduino utilizando Processing para ejecutar los sonidos.
 
 ## Diagrama de bloques 
 Por pasos:
